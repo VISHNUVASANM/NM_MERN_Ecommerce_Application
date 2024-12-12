@@ -13,7 +13,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone (https://github.com/VISHNUVASANM/NM_MERN_Ecommerce_Application)
+   git clone https://github.com/VISHNUVASANM/NM_MERN_Ecommerce_Application
 
 2. **Navigate to the project directory:**
     ```bash
